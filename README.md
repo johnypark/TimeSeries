@@ -6,7 +6,7 @@ https://cran.r-project.org/web/packages/rEDM/vignettes/rEDM-tutorial.html
 #### BRITS: Bi-directional Recurrent Imputation for Time-Series Modeling
 https://arxiv.org/abs/1805.10572
 
-## Smoothing and Segmentation
+### Smoothing and Segmentation
 #### General Lasso (Tibshirani and Taylor, 2011)
 
 #### Hinging Hyperplans (Huang et al., 2012)
