@@ -9,6 +9,6 @@ https://arxiv.org/abs/1805.10572
 ### Smoothing and Segmentation
 #### General Lasso (Tibshirani and Taylor, 2011)
 
-#### Hinging Hyperplans (Huang et al., 2012)
+#### Hinging Hyperplanes (Huang et al., 2012)
 https://ieeexplore.ieee.org/document/6507347
 
